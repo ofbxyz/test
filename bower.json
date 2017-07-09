@@ -1,0 +1,14 @@
+{
+  "name": "first-bower-project",
+  "description": "toto",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
